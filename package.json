@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-console-app",
+  "version": "1.0.0",
+  "description": "a command line based README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thedanbrown/README-Generator-Console-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thedanbrown/README-Generator-Console-App/issues"
+  },
+  "homepage": "https://github.com/Thedanbrown/README-Generator-Console-App#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

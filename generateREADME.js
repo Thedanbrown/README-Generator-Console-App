@@ -1,9 +1,19 @@
-
+function generateBadge(license) {
+    if (license === apache) {
+        return [![License]("https://img.shields.io/badge/License-Apache_2.0-blue.svg")]("https://opensource.org/licenses/Apache-2.0");
+    } else if (license === GPL) {
+        return [![License]("https://img.shields.io/badge/License-GPLv3-blue.svg")]("https://www.gnu.org/licenses/gpl-3.0");
+    } else if (license === unlicense) {
+        return [![License]("https://img.shields.io/badge/license-Unlicense-blue.svg")]("http://unlicense.org/");
+    } else {
+        return " ";
+    }
+}
 function generateREADME(data) {
     return `
 ## ${data.title}
 
-[![License: ${data.license}]("https://img.shields.io/badge/license-" + ${data.license} + "-blue.svg")](https://opensource.org/licenses/${data.license})
+${generateBadge(data.license)}
 
 ## Table of Contents
   * [Description](#description)

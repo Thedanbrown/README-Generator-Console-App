@@ -1,16 +1,9 @@
-// returns the badge for chosen license
-function licenseBadge(license) { 
-    if (license !== 'no license') {
-    return [![License: ${license}]("https://img.shields.io/badge/license-" + ${license} + "-blue.svg")] ;
-    } else {
-    return ' ';
-    }
-}
+
 function generateREADME(data) {
     return `
 ## ${data.title}
 
-    ${licenseBadge(data.license)}
+[![License: ${data.license}]("https://img.shields.io/badge/license-" + ${data.license} + "-blue.svg")]
 
 ## Table of Contents
   * [Description](#description)

@@ -10,19 +10,16 @@
 //     }
 // }
 
-function generateBadge (license) {
-switch (license) {
-    case 'MIT':
-        return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
-        break;
-    case 'Gpl':
-        return '[!License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)';
-        break;
-    case 'unlicense':
-        return '[!License: Unlisence]https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)';
-        break;
-    case 'no license':
-        return '';
+function generateBadge(license) {
+    switch (license) {
+        case 'MIT':
+            return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
+        case 'Gpl':
+            return '[!License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)';
+        case 'unlicense':
+            return '[!License: Unlisence]https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)';
+        case 'no license':
+            return '';
 }
 }
 

@@ -14,7 +14,7 @@ function generateREADME(data) {
     return `
 ## ${data.title}
 
-${generateBadge(data.license)}]
+${generateBadge(data.license)}
 
 ## Table of Contents
   * [Description](#description)

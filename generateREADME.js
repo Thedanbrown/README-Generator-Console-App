@@ -3,7 +3,7 @@ function generateREADME(data) {
     return `
 ## ${data.title}
 
-[![License: ${data.license}]("https://img.shields.io/badge/license-" + ${data.license} + "-blue.svg")]
+[![License: ${data.license}]("https://img.shields.io/badge/license-" + ${data.license} + "-blue.svg")](https://opensource.org/licenses/${data.license})
 
 ## Table of Contents
   * [Description](#description)

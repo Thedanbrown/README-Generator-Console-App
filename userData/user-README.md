@@ -1,7 +1,7 @@
 
-## project
+## x
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 
 ## Table of Contents
   * [Description](#description)
@@ -19,15 +19,15 @@
 ## [Usage](#table-of-contents)
     x
 ## [License](#table-of-contents)
-    Available license for this project: unlicense
+    Available license for this project: no license
 ## [Contributing](#table-of-contents)
-    no
+    x
 ## [Tests](#table-of-contents)    
-    no
+    x
 ## [Questions](#table-of-contents)
 
 You can contact me using the following links:
 
-[GitHub](https://github.com/danbrown)
+[GitHub](https://github.com/x)
 
-[Email: danbrown@danbrown](mailto:danbrown@danbrown)
+[Email: x](mailto:x)

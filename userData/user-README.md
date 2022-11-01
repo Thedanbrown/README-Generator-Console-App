@@ -1,7 +1,7 @@
 
 ## project
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Table of Contents
   * [Description](#description)
@@ -13,13 +13,13 @@
   * [Questions](#questions)
 
 ## [Description](#table-of-contents)
-    aasdf
+    x
 ## [Installation](#table-of-contents)
-    asdfasdf
+    x
 ## [Usage](#table-of-contents)
-    asdfasdfsa
+    x
 ## [License](#table-of-contents)
-    Available license for this project: apache
+    Available license for this project: unlicense
 ## [Contributing](#table-of-contents)
     no
 ## [Tests](#table-of-contents)    
@@ -28,6 +28,6 @@
 
 You can contact me using the following links:
 
-[GitHub](https://github.com/tdb)
+[GitHub](https://github.com/danbrown)
 
-[Email: tsdfasdf](mailto:tsdfasdf)
+[Email: danbrown@danbrown](mailto:danbrown@danbrown)

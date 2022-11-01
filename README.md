@@ -21,6 +21,7 @@ THEN I am taken to the corresponding section of the README -->
   # README generator console app
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [!License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   ## Table of Contents
   * [Description](#description)

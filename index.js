@@ -23,17 +23,17 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: 'Please provide a description of your project and technologies used',
+        message: 'Please provide a description of your project and technologies used:',
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Please provide step-by-step installation instructions for your project',
+        message: 'Please provide step-by-step installation instructions for your project:',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Please provide all instructions on how to use the project',
+        message: 'Please provide all instructions on how to use the project:',
     },
     {
         type: 'list',

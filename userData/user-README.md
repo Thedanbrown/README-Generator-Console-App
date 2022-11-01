@@ -1,7 +1,7 @@
 
 ## x
 
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Table of Contents
   * [Description](#description)
@@ -19,7 +19,7 @@
 ## [Usage](#table-of-contents)
     x
 ## [License](#table-of-contents)
-    Available license for this project: no license
+    Available license for this project: apache
 ## [Contributing](#table-of-contents)
     x
 ## [Tests](#table-of-contents)    

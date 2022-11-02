@@ -9,7 +9,7 @@ function generateBadge(license) {
             return '[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)';
         case 'no license':
             return '';
-}
+    }
 }
 
 function generateREADME(data) {

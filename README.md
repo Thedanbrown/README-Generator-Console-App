@@ -30,8 +30,8 @@
   
   ## [Links](#table-of-contents)
 
-  #[Repository](https://github.com/Thedanbrown/README-Generator-Console-App)
-  #[Usage Video](https://drive.google.com/file/d/1imLsBxmBGeT-9iHiEcY_9Zkvn3UdOSCF/view)
+  # [Repository](https://github.com/Thedanbrown/README-Generator-Console-App)
+  # [Usage Video](https://drive.google.com/file/d/1imLsBxmBGeT-9iHiEcY_9Zkvn3UdOSCF/view)
 
   ## [License](#table-of-contents)
 

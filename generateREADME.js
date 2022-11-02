@@ -1,4 +1,4 @@
-
+//generates the badges to append to the readme based on users choice of license
 function generateBadge(license) {
     switch (license) {
         case 'MIT':
@@ -11,7 +11,7 @@ function generateBadge(license) {
             return '';
     }
 }
-
+//generates the user readme file inputing their contributed data
 function generateREADME(data) {
     return `
 ## ${data.title}

@@ -1,7 +1,7 @@
 
-## Sample
+## sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Table of Contents
   * [Description](#description)
@@ -19,7 +19,7 @@
 ## [Usage](#table-of-contents)
     sample
 ## [License](#table-of-contents)
-    Available license for this project: MIT
+    Available license for this project: apache
 ## [Contributing](#table-of-contents)
     sample
 ## [Tests](#table-of-contents)    
@@ -28,6 +28,6 @@
 
 You can contact me using the following links:
 
-[GitHub](https://github.com/Samplegithub)
+[GitHub](https://github.com/sample)
 
-[Email: sample@sample.com](mailto:sample@sample.com)
+[Email: sample](mailto:sample)
